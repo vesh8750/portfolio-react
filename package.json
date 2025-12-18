@@ -2,6 +2,7 @@
   "name": "three-d-portfolio-2025",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://vesh.tech",
   "type": "module",
   "scripts": {
     "dev": "vite",
